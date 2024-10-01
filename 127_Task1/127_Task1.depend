@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1727693201 source:f:\2-1\oop lab\lab3\127_task1\main.cpp
+	<iostream>
+	<string>
+	"savingsaccount.h"
+
+1727797752 f:\2-1\oop lab\lab3\127_task1\savingsaccount.h
+	<string>
+
+1727797715 source:f:\2-1\oop lab\lab3\127_task1\savingsaccount.cpp
+	"savingsaccount.h"
+	<iostream>
+

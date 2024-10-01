@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1727794560 source:f:\2-1\oop lab\lab3\127_task2\main.cpp
+	<iostream>
+	"employee.h"
+
+1727690475 source:f:\2-1\oop lab\lab3\127_task2\employee.cpp
+	<iostream>
+	"employee.h"
+	<string>
+
+1727794862 f:\2-1\oop lab\lab3\127_task2\employee.h
+	<string>
+
